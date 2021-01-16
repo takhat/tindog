@@ -1,1 +1,1 @@
-Published Site: https://takhat.github.io/TinDog/
+Published Site: https://takhat.github.io/tindog/
