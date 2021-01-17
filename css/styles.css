@@ -131,7 +131,7 @@ p{
   margin: 20px 10px;
   font-size: 2.5rem;
 }
-@media (max-width:1028px){
+/*@media (max-width:1028px){
 .title-image{
   position: static;
   transform: rotate(0);
@@ -139,5 +139,5 @@ p{
 
 #title{
   text-align: center;
-}
-}
+ }
+}*/
