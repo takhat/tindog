@@ -1,1 +1,1 @@
-TinDog Starting Files
+https://takhat.github.io/tindog/
